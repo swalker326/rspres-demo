@@ -1,20 +1,20 @@
 {
-  "name": "rspress-doc-template",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "dev": "rspress dev",
-    "build": "rspress build",
-    "preview": "rspress preview"
-  },
-  "dependencies": {
-    "@rsbuild/core": "^1.1.9",
-    "@rspress/plugin-preview": "^1.35.1",
-    "@rspress/shared": "^1.37.4",
-    "rspress": "^1.35.0",
-    "zephyr-rspack-plugin": "^0.0.31"
-  },
-  "devDependencies": {
-    "@types/node": "^16"
-  }
+	"name": "rspress-doc-template",
+	"version": "1.2.0",
+	"private": true,
+	"scripts": {
+		"dev": "rspress dev",
+		"build": "rspress build",
+		"preview": "rspress preview"
+	},
+	"dependencies": {
+		"@rsbuild/core": "^1.1.9",
+		"@rspress/plugin-preview": "^1.35.1",
+		"@rspress/shared": "^1.37.4",
+		"rspress": "^1.35.0",
+		"zephyr-rspack-plugin": "^0.0.31"
+	},
+	"devDependencies": {
+		"@types/node": "^16"
+	}
 }
