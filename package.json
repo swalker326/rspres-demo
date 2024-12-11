@@ -8,9 +8,11 @@
     "preview": "rspress preview"
   },
   "dependencies": {
+    "@rsbuild/core": "^1.1.9",
     "@rspress/plugin-preview": "^1.35.1",
-    "rspress": "^1.32.0",
-    "zephyr-webpack-plugin": "^0.0.21"
+    "@rspress/shared": "^1.37.4",
+    "rspress": "^1.35.0",
+    "zephyr-rspack-plugin": "^0.0.31"
   },
   "devDependencies": {
     "@types/node": "^16"
